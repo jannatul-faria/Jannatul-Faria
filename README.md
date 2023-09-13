@@ -1,6 +1,6 @@
 ![I am web designer and developer.](https://media.licdn.com/dms/image/D5616AQH-7bllwmSGfQ/profile-displaybackgroundimage-shrink_350_1400/0/1688039719088?e=1697068800&v=beta&t=DdciiXGp2rxIUissNRKtkfGJ8PvE1XWp9Y6bN0bLuRk)
 # Hi there 👋, my name is Jannatul Faria
-### I am web designer and developer.
+### I am a web designer and developer.
 
 
 I'm Jannatul, a skilled Web Developer and WordPress Designer. My goal is to create websites that captivate visitors with stunning designs and deliver seamless functionality and optimal performance. By leveraging my strong command over HTML, CSS, JavaScript, and PHP, I ensure that each website I create is responsive, accessible, and optimized for search engines.
