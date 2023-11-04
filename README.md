@@ -5,9 +5,8 @@
 
 I'm Jannatul, a skilled Web Developer and WordPress Designer. My goal is to create websites that captivate visitors with stunning designs and deliver seamless functionality and optimal performance. By leveraging my strong command over HTML, CSS, JavaScript, and PHP, I ensure that each website I create is responsive, accessible, and optimized for search engines.
 
- #### Skills:<b> PHP / LARAVEL / JS / HTML / CSS / React.js <b/>
+ #### Skills:<b> PHP / LARAVEL / JS / HTML / CSS  <b/>
 
-- 🔭 I’m currently working on Fiverr. 
 - 🌱 I’m currently learning Javascript. 
 - 👯 I’m looking to collaborate on GitHub. 
 - 💬 Ask me about Web Development. 
