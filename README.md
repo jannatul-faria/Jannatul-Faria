@@ -1,4 +1,4 @@
-![I am web designer and developer.](https://media.licdn.com/dms/image/D5616AQH-7bllwmSGfQ/profile-displaybackgroundimage-shrink_350_1400/0/1688039719088?e=1703721600&v=beta&t=re0yOGpfY_fHf3VnhJ-j399U3D3tFX46cquG2fqF9Y8)
+![I am web designer and developer.](https://media.licdn.com/dms/image/D5616AQH2haw2F89E2w/profile-displaybackgroundimage-shrink_350_1400/0/1701953363355?e=1709164800&v=beta&t=adG7ziwlPjKROvrBPA9ZAceqDcOMZYKDguoGznksL6E)
 # Hi there 👋
 ### I am a web designer and developer.
 
