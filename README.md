@@ -19,11 +19,12 @@ I'm Jannatul, a skilled Web Developer and WordPress Designer. My goal is to crea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jannatul-Faria)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jannatul-Faria&show_icons=true&count_private=true)
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) 
 
 ![GitHub metrics](https://metrics.lecoq.io/Jannatul-Faria)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Jannatul-Faria)  
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) 
 
 ![Profile views](https://gpvc.arturio.dev/Jannatul-Faria)  
 
