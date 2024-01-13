@@ -24,7 +24,5 @@ I'm Jannatul, a skilled Web Developer and WordPress Designer. My goal is to crea
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Jannatul-Faria)  
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) 
-
 ![Profile views](https://gpvc.arturio.dev/Jannatul-Faria)  
 
