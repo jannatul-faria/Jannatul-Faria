@@ -1,9 +1,9 @@
-![I am web designer and developer.](https://media.licdn.com/dms/image/D5616AQH2haw2F89E2w/profile-displaybackgroundimage-shrink_350_1400/0/1701953363355?e=1709164800&v=beta&t=adG7ziwlPjKROvrBPA9ZAceqDcOMZYKDguoGznksL6E)
+![I am Web developer.](https://media.licdn.com/dms/image/D5616AQEvwOmE2xA5_w/profile-displaybackgroundimage-shrink_350_1400/0/1709118453307?e=1714608000&v=beta&t=Q6eijp4F0PhkAqno3Akm1WoA2u5AjI-PXMn1bKEoktw)
 # Hi there 👋
-### I am a web designer and developer.
+### I am a web developer.
 
 
-I'm Jannatul, a skilled Web Developer and WordPress Designer. My goal is to create websites that captivate visitors with stunning designs and deliver seamless functionality and optimal performance. By leveraging my strong command over HTML, CSS, JavaScript, and PHP, I ensure that each website I create is responsive, accessible, and optimized for search engines.
+I'm Jannatul, a skilled Web Developer. My goal is to create websites that captivate visitors with stunning designs and deliver seamless functionality and optimal performance. By leveraging my strong command over HTML, CSS, JavaScript, and PHP, I ensure that each website I create is responsive, accessible, and optimized for search engines.
 
  #### Skills:<b> PHP / LARAVEL / JS / HTML / CSS  <b/>
 
