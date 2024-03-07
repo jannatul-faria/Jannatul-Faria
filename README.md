@@ -1,4 +1,4 @@
-![I am Web developer.](https://media.licdn.com/dms/image/D5616AQEvwOmE2xA5_w/profile-displaybackgroundimage-shrink_350_1400/0/1709118453307?e=1714608000&v=beta&t=Q6eijp4F0PhkAqno3Akm1WoA2u5AjI-PXMn1bKEoktw)
+![I am Web developer.](https://media.licdn.com/dms/image/D5616AQH8tNUGgbiQNg/profile-displaybackgroundimage-shrink_350_1400/0/1709823781253?e=1715212800&v=beta&t=uXFeGqgRPsChqJXeXdZJ880ZVtKOOvywTgGqyOYeXpY)
 # Hi there 👋
 ### I am a web developer.
 
