@@ -4,7 +4,7 @@
 I'm Jannatul, a skilled Web Developer. My goal is to create websites that captivate visitors with stunning designs and deliver seamless functionality and optimal performance. By leveraging my strong command over HTML, CSS, JavaScript, and PHP, I ensure that each website I create is responsive, accessible, and optimized for search engines.
 
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>
+🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>
 
 <div  align="center">
   
