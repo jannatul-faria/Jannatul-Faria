@@ -19,6 +19,8 @@ I'm Jannatul, a skilled Web Developer. My goal is to create websites that captiv
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jannatul-Faria&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jannatul-Faria&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jannatul-Faria&theme=github_dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
 
