@@ -1,6 +1,5 @@
 ![I am a Web developer.](https://media.licdn.com/dms/image/v2/D5616AQH8tNUGgbiQNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709823781253?e=1737590400&v=beta&t=KHj17VioIb4_OxOZxMLyPhFQNes_9eeLIDspgmyGE8Q)
 
-
 <div  align="center">
   
 # 💻 Tech Stack:
@@ -34,8 +33,5 @@ I'm Jannatul, a skilled Web Developer. My goal is to create websites that captiv
 [![](https://visitcount.itsvg.in/api?id=Jannatul-Faria&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
