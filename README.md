@@ -19,6 +19,12 @@ I'm Jannatul Faria, a passionate Laravel Developer with experience in PHP, Larav
 <div  align="center">
 
 # 📊 GitHub Stats:
+<!-- GITHUB-STATS:START -->
+<p align="center">
+  <img src="preview.svg" alt="GitHub stats preview" />
+</p>
+<!-- GITHUB-STATS:END -->
+
 ![](https://github-readme-stats.vercel.app/api?username=Jannatul-Faria&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jannatul-Faria&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jannatul-Faria&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
