@@ -1,4 +1,4 @@
-![I am a Web developer.](https://media.licdn.com/dms/image/v2/D5616AQH8tNUGgbiQNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709823781253?e=1762992000&v=beta&t=87sk8exm47Sh94VvWoY1tLV-cJo83TIVjlUGz06zrUg)
+![I am a Web developer.](https://media.licdn.com/dms/image/v2/D5616AQH8tNUGgbiQNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709823781253?e=1781740800&v=beta&t=7oYB5uZwUp-kqau2P2hD0grGXbTpXweRKfslJgU-gc8)
 
 <div  align="center">
   
@@ -17,7 +17,7 @@ I'm Jannatul Faria, a passionate Laravel Developer with experience in PHP, Larav
 
 </div>
 <div  align="center">
-
+  
 # 📊 GitHub Stats:
 <!-- GITHUB-STATS:START -->
 <p align="center">
@@ -25,10 +25,8 @@ I'm Jannatul Faria, a passionate Laravel Developer with experience in PHP, Larav
 </p>
 <!-- GITHUB-STATS:END -->
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jannatul-Faria&theme=github_dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=Jannatul-Faria&bg_color=0000000&color=000000&line=fca235&point=FB8C00&area_color=f9bd72&area=true&hide_border=true)
+  
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jannatul-Faria&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
